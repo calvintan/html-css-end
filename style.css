@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.header {
+  text-align: center;
+  color: white;
+  background-color: green;
+  background-image: url(images/bg.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 50px;
+}
+
+.header img {
+  border: 5px solid white;
+  border-radius: 50%;
+}
+
+div {
+  padding: 50px;
+}
+
+.skills {
+  background-color: beige;
+  color: black;
+}
+
+.footer {
+  color: white;
+  background-color: saddlebrown;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.footer img {
+  padding: 5px;
+}

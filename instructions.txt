@@ -1,0 +1,28 @@
+Calvin
+UX Designer
+
+# about
+Welcome to my portfolio! I'm a passionate and versatile designer with expertise in graphic design, web design, and user experience. I mostly use Figma when I'm designing – www.figma.com
+
+I bring ideas to life through visually stunning and impactful designs. Let's embark on new design challenges together!
+
+# skills
+I constantly seek inspiration and stay updated with the latest design trends.
+
+Here is a list of my diverse skill set:
+- Graphic design
+- Web design
+- Branding
+- Typography
+
+# social
+Made by Calvin
+- Facebook icon
+- Twitter icon
+- LinkedIn icon
+- Instagram icon
+
+Colors used: beige, saddlebrown
+Fonts used: Montserrat
+
+https://fonts.googleapis.com/css?family=Montserrat&display=swap
